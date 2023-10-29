@@ -1,2 +1,2 @@
-"#decentralized-app" 
-"# AiDubGPT" 
+Bu bir arayüzdür
+XTTS ile çalışır
